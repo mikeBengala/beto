@@ -2992,7 +2992,7 @@ a.logo:hover{
     letter-spacing: 0.4em;
 }
 .team-item-role{
-    margin-top: 4px;
+    margin: 4px 0 50px 0;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 0.4em;
@@ -3016,7 +3016,7 @@ a.logo:hover{
 
 
 
-/* Hover state */
+/* Hover state
 .no-mobile .team-item:hover .team-item-image:after{
     background: rgba(255,255,255, .93);
 }
@@ -3028,9 +3028,9 @@ a.logo:hover{
 }
 .no-mobile .team-social-links a:hover{
     color: rgba(0,0,0, .75);
-}
+}*/
 
-/* Mobile touch */
+/* Mobile touch
 .team-item.js-active .team-item-image:after{
     background: rgba(255,255,255, .93);
 }
@@ -3043,7 +3043,7 @@ a.logo:hover{
 .team-item.js-active .team-social-links a:hover{
     color: rgba(0,0,0, .75);
 }
-
+*/
 
 /* ==============================
    Features
